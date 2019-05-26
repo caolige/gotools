@@ -3,6 +3,7 @@ git clone https://github.com/golang/net.git golang.org/x/net
 git clone https://github.com/golang/sys.git golang.org/x/sys
 git clone https://github.com/golang/tools.git golang.org/x/tools
 git clone https://github.com/golang/lint.git golang.org/x/lint
+git clone https://github.com/go-delve/delve.git github.com/go-delve/delve
 
 go get -v github.com/mdempsky/gocode
 go get -v github.com/uudashr/gopkgs/cmd/gopkgs
